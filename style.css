@@ -1,0 +1,32 @@
+body {
+   line-height: 1.3em;
+   margin: 20px 40px 0 50px;
+}
+
+header {
+   margin: 20px 50px;
+   display: block;
+   text-align: right;
+}
+
+header span{
+   font-weight: bold;
+   font-size: 1.4em;
+}
+
+.remite .asunto{
+   font-size: 1.5em;
+}
+
+.cuerpo span strong:first-child {
+   font-size: 1.3em;
+}
+
+.cuerpo strong:nth-child(n) {
+   font-size: 1.3em;
+}
+
+span blockquote {
+   margin: 3px 20px;
+}
+
